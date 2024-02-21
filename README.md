@@ -1,4 +1,4 @@
-Since [John Gabriele](http://unexpected-vortices.com/) deleted Haxe tutorials from his blog, I make personal copy of them using Web Archive.
+Since [John Gabriele](http://unexpected-vortices.com/) deleted Haxe tutorials from his blog, I made personal copy of them using Web Archive.
 
 All regards to author, I did not make any changes to them except couple sidenotes about source.
 
